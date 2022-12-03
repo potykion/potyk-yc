@@ -1,1 +1,1 @@
-poetry config http-basic.foo %1 %2
+poetry config http-basic.pypi %1 %2
